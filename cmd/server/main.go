@@ -1,4 +1,4 @@
-// simple echo server using github.com/lossdev/websockit
+// simple echo server using github.com/deadlyengineer/websockit
 
 package main
 
@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/lossdev/websockit"
+	"github.com/deadlyengineer/websockit"
 )
 
 func main() {

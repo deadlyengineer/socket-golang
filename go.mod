@@ -1,4 +1,4 @@
-module github.com/lossdev/websockit
+module github.com/deadlyengineer/socket-golang
 
 go 1.18
 

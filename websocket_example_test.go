@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/lossdev/websockit"
+	"github.com/deadlyengineer/websockit"
 )
 
 func ExampleWebsocket_ReadLoop() {

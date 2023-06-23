@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/lossdev/websockit"
+	"github.com/deadlyengineer/websockit"
 )
 
 func main() {
