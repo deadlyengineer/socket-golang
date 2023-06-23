@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/deadlyengineer/websockit"
+	"github.com/deadlyengineer/socket-golang"
 )
 
 func ExampleWebsocket_ServerSocket() {

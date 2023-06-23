@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/deadlyengineer/websockit"
+	"github.com/deadlyengineer/socket-golang"
 )
 
 func ExampleWebsocket_ReadLoop() {

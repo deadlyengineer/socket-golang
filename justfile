@@ -1,4 +1,4 @@
-docsurl := "http://localhost:8080/pkg/github.com/deadlyengineer/websockit"
+docsurl := "http://localhost:8080/pkg/github.com/deadlyengineer/socket-golang"
 
 _default:
   @just --list --list-prefix '  > '
